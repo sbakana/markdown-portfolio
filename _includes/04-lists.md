@@ -1,3 +1,3 @@
-Multimedia Data Mining
-Object Detection
-Wild animal classification
+- Multimedia Data Mining
+- Object Detection
+- Wild animal classification
