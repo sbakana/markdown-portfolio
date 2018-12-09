@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+Multimedia Data Mining
+Object Detection
+Wild animal classification
